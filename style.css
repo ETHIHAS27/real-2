@@ -1,0 +1,28 @@
+.heading{
+    float: none;
+    width: 100%;
+    box-shadow: 5px 5px 5px gray;   
+}
+
+.div_header{
+    width: 500px;
+    font-size: 25px;
+    box-shadow: 5px 5px 5px gray;
+}
+
+.h3_div{
+    font-size: 18px;
+    box-shadow: 5px 5px 5px gray;
+}
+
+.p_span{
+    font-size: 20px;
+    box-shadow: 5px 5px 5px gray;
+}
+
+canvas{
+    border: gray 5px solid;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px gray;
+    margin-left: 200px;
+}
